@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cmake = "*"
+dlib = {path = "./dlib-19.22.99-cp310-cp310-win_amd64.whl"}
+face-recognition = "*"
+opencv-python = "*"
+kivy = "*"
+kivymd = "*"
+kivy-garden = "*"
+requests = "*"
+pyodbc = "*"
+pipfile = "*"
+tensorflow = "*"
+pandas = "*"
+tensorflow-cpu = "*"
+tensorflow-gpu = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
