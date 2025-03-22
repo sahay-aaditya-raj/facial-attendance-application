@@ -14,10 +14,6 @@ kivy-garden = "*"
 requests = "*"
 pyodbc = "*"
 pipfile = "*"
-tensorflow = "*"
-pandas = "*"
-tensorflow-cpu = "*"
-tensorflow-gpu = "*"
 pandas = "*"
 
 [dev-packages]
